@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/depak-debnath-091899357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Depak-Debnath" target="_blank">
@@ -71,24 +71,24 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
-
----
-
-<!-- ### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Depak-Debnath&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Depak-Debnath&layout=compact&hide_border=true" height="165" />
 </p> -->
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Depak-Debnath&hide_border=true" />
+</p>
+
 ---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Depak-Debnath&hide_border=true" />
+</p>
+
+<!-- --- -->
 
 <!-- ### 🚀 Featured Projects
 
@@ -152,7 +152,7 @@ Short description of what this project does and the problem it solves.
 
 ---
 
-### 📚 Learning Roadmap
+<!-- ### 📚 Learning Roadmap
 
 ```text
 C / Java / Python / JavaScript
@@ -170,31 +170,31 @@ C / Java / Python / JavaScript
        Deep Learning
 ```
 
----
+--- -->
 
-### 📈 Profile Views
+<!-- ### 📈 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Depak-Debnath&style=flat-square&color=blue" />
+</p> -->
 
----
+<!-- --- -->
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/depak-debnath-091899357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Depak-Debnath" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:depakdebnath8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <!-- <a href="YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
