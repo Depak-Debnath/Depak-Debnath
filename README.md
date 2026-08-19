@@ -71,10 +71,10 @@
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Depak-Debnath&show_icons=true&theme=default&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Depak-Debnath&layout=compact&hide_border=true" height="165" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Depak-Debnath&hide_border=true" />
