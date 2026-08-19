@@ -57,11 +57,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
-**🌐 Web Development**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
 
 **🤖 AI / ML — Exploring**
 
